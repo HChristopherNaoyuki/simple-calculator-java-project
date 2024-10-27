@@ -104,12 +104,6 @@ The test suite covers basic operations, division by zero, invalid operators, and
 
 ---
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or want to add more features, feel free to open an issue or submit a pull request.
-
----
-
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
